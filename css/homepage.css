@@ -1,0 +1,12 @@
+#heading-title-text {
+	font-family: 'Permanent Marker';
+	color: #39CCCC;
+	font-size: 120px;
+	text-align: center;
+}
+.main-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+}
